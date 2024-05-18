@@ -1,5 +1,6 @@
 {
     "name": "마퀸 청소로봇_기본",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
